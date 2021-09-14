@@ -1,0 +1,3 @@
+As I have been working on Spring Boot for last almost 2 years now, I see most of the things perfect in Spring Boot but 2 things I would like Spring Boot to change in the future are:
+1)	Repetition of code to be reduced to as much as possible. For example, we have different properties files for different environments so may be in the future we can do it in the same file.
+2)	Error handling in Spring Boot has multiple ways of dealing with errors, as a developer I would suggest having some generalized error handling class for all. So, instead of mapping with multiple error class responses we will have only one mapping and that creates easy life for debugging and development.
